@@ -504,8 +504,8 @@
   .img_separate_4 {
     display: flex;
     flex-direction: column;
-    width: 88%;
-    max-width: 500px;
+    width: 100%;
+    max-width: 490px;
     height: auto;
     margin-bottom: auto;
   }
@@ -514,8 +514,7 @@
   .card_activity_xmedium,
   .card_activity_small {
     height: 150px;
-    width: 100%;
-    max-width: 500px;
+    width: 90%;
     margin-bottom: 20px;
     margin-left: 4%;
   }
